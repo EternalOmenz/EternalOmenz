@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EternalOmenz
-- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Computer Science
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... eternal.omenz@gmail.com
